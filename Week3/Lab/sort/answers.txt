@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort
+
+How do you know?:   Real time score (50000 tests)   | Sorted = 0.816s | Random = 7.567 | Reserved = 5.895
+                    Best Case (Sorted) = O(n)       | Worst Case (Reversed) = O(n^2)
+
+sort2 uses: Merge Sort
+
+How do you know?:   Real time score (50000 tests)   | Sorted = 0.578s | Random = 0.592 | Reserved = 0.897
+                    Best Case = O(n log n)          | Worst Case = O(n log n)
+
+sort3 uses: Selection Sort
+
+How do you know?:   Real time score (50000 tests)   | Sorted = 3.368s | Random = 3.381 | Reserved = 3.386
+                    Best Case = O(n^2)              | Worst Case O(n^2)
+
